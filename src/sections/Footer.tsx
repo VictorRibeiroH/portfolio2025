@@ -28,7 +28,7 @@ const Footer: FC = () => {
   return (
     <footer className="bg-stone-900 text-white" id="contact">
       <div className="container">
-        <div className="pt-20">
+        <div className="section">
           <div className="flex items-center gap-3">
             <div className="size-3 rounded-full bg-green-400"></div>
             <span className="uppercase">
